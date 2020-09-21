@@ -1,10 +1,10 @@
 # Paisley Park
 
-Paisley Park is a waymark preset tool that allows you to save and load waymark presets to be used at any time without needing to do all the work manually.
+Paisley Park是一个标点预设工具，它允许您保存和加载随时使用的标点预设，而无需手动执行标点工作。（跟5.2版本新增的游戏内标点预设很像）
 
-## How does it work?
+## 如何工作?
 
-Paisley Park works by injecting assembly into the running application. Paisley Park however does not perform any malicious code on any process, and only injects code to assist with calling functions that already exist inside of the process. When the application is shut down properly, Paisley Park cleans up its mess as if nothing happened. Nothing Paisley Park does affects any process permanently. If you wish to see what is injected at runtime, you can view so [here](https://github.com/LeonBlade/PaisleyPark/blob/master/PaisleyPark/ViewModels/MainWindowViewModel.cs#L213).
+Paisley Park通过将程序集注入运行中的应用程序来工作。但是，Paisley Park不会对任何进程执行任何恶意代码，只注入代码来帮助调用进程中已经存在的函数。当应用程序正常关闭后，Paisley Park 会像什么都没发生一样，Paisley Park不会永久影响任何进程。如果您希望查看运行时注入的内容，可以查看 [这里](https://github.com/LeonBlade/PaisleyPark/blob/master/PaisleyPark/ViewModels/MainWindowViewModel.cs#L213).
 
 ## Will I get in trouble for using this?
 
