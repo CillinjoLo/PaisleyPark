@@ -45,6 +45,12 @@ Paisley Park的创建是为了便于在各种场景下设置路标. 考虑到这
 同时WaymarkLibrarian-CN也同样支持与Paisley Park 点位互相导入/导出，下载地址：[WaymarkLibrarian](https://github.com/CillinjoLo/WaymarkLibrarian-CN/releases)
 ### 这里我也提供一个标点合集，也可以联系我增加更多的标点[标点合集](https://docs.qq.com/sheet/DY0ttR2xQT1Vjc2V4)
 
+## 为啥我的尼尼科技标点没用啊？！
+
+1.首先请检查Paisley Park的主页面是否设置了端口并开启了通讯（端口后方的正方形框框勾选上是自动启用端口侦听）
+2.请打开ACT并检测尼尼科技插件的"Paisley Park HTTP Port"是否正确设置了和Paisley Park一样的端口，并点击测试
+3.如果测试成功了，请检测“使用场地标点宏”是否勾选了，如果没勾选，在游戏里使用宏，尼尼科技下方的战斗记录和游戏内都是没有任何反应的。
+4.如果以上都正确设置，但是点击游戏内的宏依旧没有反应，请将尼尼科技下方的战斗记录发给我。【如何找到我？请在Release页面加入加隆德找我】
 
 ## 最后
 
