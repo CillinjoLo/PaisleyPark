@@ -1,6 +1,7 @@
 # Paisley Park
 
 Paisley Park是一个标点预设工具，它允许您保存和加载随时使用的标点预设，而无需手动执行标点工作。（跟5.2版本新增的游戏内标点预设很像）
+如果您使用尼尼科技，却发现他不好使，请[尼尼解决方案](https://github.com/CillinjoLo/PaisleyPark#ninisupport)
 
 ## 如何工作?
 
@@ -43,7 +44,8 @@ Paisely Park 目前是在一个非常基本的水平.还有一些其他功能正
 
 Paisley Park的创建是为了便于在各种场景下设置路标. 考虑到这一点，Paisely Park应该有一个导入和导出预设的功能，以便与其他玩家共享。 只需单击“导入”并粘贴来自另一个用户的JSON字符串，然后单击导入， 就会把相同的标点导入到你的Paisley Park。分享你自己的也可以。只需单击要共享的预设，然后单击“导出”。这将把JSON字符串复制到剪贴板，在那里可以粘贴到QQ基友群、歪歪或其他地方。
 同时WaymarkLibrarian-CN也同样支持与Paisley Park 点位互相导入/导出，下载地址：[WaymarkLibrarian](https://github.com/CillinjoLo/WaymarkLibrarian-CN/releases)
-### 这里我也提供一个标点合集，也可以联系我增加更多的标点[标点合集](https://docs.qq.com/sheet/DY0ttR2xQT1Vjc2V4)
+### 这里我也提供一个标点合集，也可以联系我增加更多的标点[标点合集](https://docs.qq.com/sheet/DY0ttR2xQT1Vjc2V4)-[如何联系我](https://github.com/CillinjoLo/PaisleyPark#contact)  
+
 
 ## NiNiSupport
 ## 为啥我的尼尼科技标点没用啊？！
@@ -51,12 +53,12 @@ Paisley Park的创建是为了便于在各种场景下设置路标. 考虑到这
 1.首先请检查Paisley Park的主页面是否设置了端口并开启了通讯（端口后方的正方形框框勾选上是自动启用端口侦听）  
 2.请打开ACT并检测尼尼科技插件的"Paisley Park HTTP Port"是否正确设置了和Paisley Park一样的端口，并点击测试  
 3.如果测试成功了，请检测“使用场地标点宏”是否勾选了，如果没勾选，在游戏里使用宏，尼尼科技下方的战斗记录和游戏内都是没有任何反应的。  
-4.如果以上都正确设置，但是点击游戏内的宏依旧没有反应，请将尼尼科技下方的战斗记录发给我。【如何找到我？】  
+4.如果以上都正确设置，但是点击游戏内的宏依旧没有反应，请将尼尼科技下方的战斗记录发给我。【如何找到我？[联系我](https://github.com/CillinjoLo/PaisleyPark#contact)】    
 
 ## Contact 
 ## 联系我
 
-如何找到我？请加入加隆德找我[加隆德传送门](https://jq.qq.com/?_wv=1027&k=o3vaXfwR)
+请加入加隆德找我[加隆德传送门](https://jq.qq.com/?_wv=1027&k=o3vaXfwR) 并@CillinjoLo西瓜
 
 ## 最后
 
